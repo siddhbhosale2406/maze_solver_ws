@@ -1,0 +1,27 @@
+# ROS 2 build files
+build/
+install/
+log/
+
+# Colcon
+.colcon/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Ubuntu
+*.swp
+*~
+
+# Environment
+.env
+
+# Temporary
+*.tmp
