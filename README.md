@@ -225,32 +225,17 @@ ros2 launch maze_solver_controller joystick.launch.py
 
 ---
 
-# 📷 Project Images
-
 ## Robot Model
 
-```
-images/robot_model.png
-```
-
----
+![Robot Model](images/robot_model.png)
 
 ## Gazebo Simulation
 
-```
-images/gazebo.png
-```
-
----
-
+![Gazebo Simulation](images/gazebo.png)
 
 ## QR Code Detection
 
-```
-images/qr_detection.png
-```
-
----
+![QR Code Detection](images/qr_detection.png)
 
 # 🔮 Future Improvements
 
